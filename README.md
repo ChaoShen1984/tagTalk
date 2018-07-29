@@ -1,3 +1,6 @@
-The OpenShift `diy` cartridge documentation can be found at:
+#tagTalk
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#diy
+An anonymous messaging app. 
+Ideas:
+1. Let user pick a temp user name.
+2. Create channels. E.g. Create a talk channel tagged as NBA Final. 
